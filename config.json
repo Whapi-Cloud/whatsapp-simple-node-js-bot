@@ -1,0 +1,5 @@
+{
+    "webhookUrl": "YOUR-WEBHOOK-URL",
+    "token": "YOUR-TOKEN",
+    "port": "8080"
+}
